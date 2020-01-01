@@ -132,5 +132,8 @@ def playTicTacToe():
 
         game.update()
     
-        
-playTicTacToe()
+    
+if __name__ == "__main__":
+    playTicTacToe()
+    
+    #END OF CODE.
